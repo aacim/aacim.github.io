@@ -1,0 +1,41 @@
+body{
+    font-family: Inter, sans-serif;
+}
+
+.nav-link{
+    color: white;
+    font-size: larger;
+}
+#bizcard{
+    background: #0a608f;
+    color: white;
+}
+bg-primary{
+    color: orange;
+}
+.navbar-brand{
+    color: white;
+    --bs-navbar-brand-hover-color: white;
+    font-size: x-large;
+    font-family: 'Arial Black', sans-serif;
+
+}
+
+.col-sm-4{
+    padding: 3em;
+}
+.col-sm-6{
+    padding: 1em;
+}
+
+.col-md-6{
+    padding:2em;
+}
+
+footer {
+    background-color: #7E7F7F;
+    font-size: 80%;
+    padding: 1em;
+    position: initial;
+    bottom: 0;
+}
